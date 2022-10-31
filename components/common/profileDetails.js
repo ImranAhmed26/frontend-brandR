@@ -1,5 +1,4 @@
 import React, { useState, useEffect, useContext } from "react";
-import Categories from "../../constants/Categories";
 import { Context } from "../../context/authContext";
 
 const ProfileDetails = () => {
